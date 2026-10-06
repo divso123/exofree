@@ -2343,9 +2343,9 @@ function t6.Security.Revoke(p38)
         return
     end
 
-    t6.State.Revoked = true
-    t6.State.Authenticated = false
-    t6.State.Premium = false
+    t6.State.Revoked = false
+    t6.State.Authenticated = true
+    t6.State.Premium = true
     t6.State.HeartbeatRunning = false
     t6.Security.RunResets(p38)
     t6.File.ClearAuth()
@@ -2357,8 +2357,8 @@ function t6.Security.Revoke(p38)
     end)
 end
 function t6.Security.Logout()
-    t6.State.Authenticated = false
-    t6.State.Premium = false
+    t6.State.Authenticated = true
+    t6.State.Premium = true
     t6.State.HeartbeatRunning = false
     t6.Security.RunResets("Logged out")
     t6.File.ClearAuth()
