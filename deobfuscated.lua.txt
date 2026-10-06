@@ -1,0 +1,2491 @@
+-- This file was generated at discord.gg/syncrypt
+
+local t1 = {
+	";M$o",
+	"QdfRvUcUoY2==",
+	";<Af5eTi",
+	"QSIqWG2==",
+	";XG_+Aat",
+	";cai&0Wl1D!qHt-^h6#n)",
+	";3?B]",
+	";nrCH`&GfBRBTCd",
+	";!C]C2D6U",
+	"QN1a=",
+	"QyP6KcX3UaT+3aF==",
+	";S^fU&ck",
+	"QtCOCjFH=",
+	";7=3Kl.V`+RlpO",
+	"Ql1xhYAM5mcqhN65=",
+	"Q0n29Pc2=",
+	"QAR0=",
+	"Q6Lts8PXWMc+FC/aKkU==",
+	";/2d0'T\"(Xu-,b",
+	"QI8oEcU==",
+	"Q09iiTF==",
+	"Q0bTH",
+	"QfmA+xADi",
+	"QhRe7hMc6xC51Xh6us2==",
+	"QIPXazur=",
+	";oLW1,h&L",
+	";7QSgP8>3\"\"$pC+2MAsL]",
+	"QB7OotN45XjC=",
+	"QbzQtirT=",
+	";L@",
+	"Qap/eqra=",
+	"Q3tmlKWmlvC==",
+	"QWyJnhGVuyZ5=",
+	";$\\BC]U;tBpCOn3!'_CGZ1.u*.oRudS)cs9$OfuJ.?AkV\\k,AK;?RF/P4?2_L!4LXSE^e#YkO+sT",
+	"Q72nmq8tzCzs=",
+	";]R&^/\"puVj_IQA9P@T;^kbZA&1_Z2",
+	";&7@W4C4?N4cXRI",
+	";Aj_nb@hE",
+	"QLrgcsooiJLpASYKwsYIvS29tT/2h3QI=",
+	"Qu8K33hh=",
+	";Og62,r;^.=h3h`3",
+	";'Ut29kLZ1G4Ws;n\"P=",
+	"Q7YiNMVsIrqU=",
+	"QSATjDK8P7AvYyC==",
+	";?'e<bi]t.",
+	"QwXDEXF==",
+	"QjSRBzG7lqqLy",
+	";fJhB'@d(",
+	";/!5'hi1\\6",
+	"QMIvf6dUT",
+	";u9i\\/]%",
+	"Q03EDSLME",
+	"QB4sXbbuskC==",
+	"QXKJqEko4iuH=",
+	"QURl1L4dGiPYlOWxJkXAITjIA4i5=",
+	"QnUH0H4Em5Xr=",
+	";&6qoA+,lBR'<USedt",
+	"QIiI6DuP=",
+	";4[;L-",
+	"QSNGyJoJVe2==",
+	";Fi=(CKRUql0UYQL9d",
+	";CYh",
+	";Hqn%",
+	";%CjDWm/I01B+\\ABFKZ%,0V[ZLf^H-",
+	"QlSvPq5IzAhSCZq5=",
+	";NkIRqH'3m'$K5,",
+	";le5sI(7#h[XAU",
+	";mg=+X)`u65b!`OL!jb0lA9de:@B#T/!p",
+	"QwAouu16WPTTL",
+	"QX2UbcwRsc7sV",
+	";n<t\\=&d^kg",
+	"QA3OvkWTq5G37",
+	"Q9IIWrbrzvBgkO2==",
+	";kYX3jAhVI7Qds=mJVn2IZd",
+	";\\=UTuUGImEK-<",
+	";AF'=X9UL",
+	"QF+F37Sq3JFs=",
+	";OT1s1:s",
+	"QinqDXF==",
+	";!7qn@gVV",
+	";XB_nOcCgKHI[Y6",
+	";l8fei",
+	"QuZYdmF==",
+	";#@bmke6B>($d",
+	"Qm6GMBuGc318+7sGK1WDBs7/2H/WzzpUvaF==",
+	";J3Q\\9@64f",
+	"QSCFZZhmk4F==",
+	";k]L%c",
+	";?6&>",
+	"QShijqWx=",
+	";e8tC'8C(8\\",
+	";8/#.U?i*9)dc9sYKU;Eep.",
+	"QRsQ71JcY",
+	";RKYDQKfg7HQ4jcN$',T0ViB",
+	"Q71/oYakGrqxq9PT=",
+	";UAl\\\\#0F?U",
+	"Qv0V8lJsspmRyv2==",
+	";:\"s,V1dl",
+	"QGvo3fd1MKmtJuQHwWoNwLoPyOT0e",
+	";qR2o&N)#h",
+	";Jp^",
+	"QHk//SXNiY1AnP3yoIJgie6kXHzOr",
+	"Q3mvTIU==",
+	"QM19UVa7jLszkzJykN2JaLdU=",
+	";d,8.Q4tf",
+	"QCxGf/frHnZ44",
+	"QjVgSmqhecU5t",
+	";H-Rp20?>Zk",
+	"QHbJsb2==",
+	";m)7JN",
+	";;a4*biF",
+	";25)Zot4qku'Mni",
+	"QnotNmHP=",
+	"QGWgDDt+CdNdHaj1A",
+	";;jRK#",
+	"QZ7r=",
+	";*8YlH5ED.ESBq6FdrG",
+	";]A2e$>:",
+	"QH9h+h2==",
+	"QaiUgmwVIkFCz5xOIcuNltk2JyL2aj7tB78Uj",
+	";914(n",
+	"QMUwFe2==",
+	";hYl-.^F",
+	";KNFM6(3Pc",
+	"Qfo2VSgk=",
+	"Q5VKL",
+	"QIcwmi/Wecps=",
+	"QKeoFVpnRfih=",
+	"QA2ZEQC==",
+	";7#[C]-m>",
+	"Q/PQqQEP=",
+	"QaVKK6N5or2==",
+	";Z1=ObttOOS;i_,",
+	"Qf++5P0T=",
+	";;Q6?$)k+k((F.",
+	";4onAh\\,e17Eq",
+	";@0&h!",
+	"QrLJ95JyG",
+	";*TS`sT@",
+	";o;#K6MaK1MiqjI:*jpW]",
+	"QQvUs1YZf",
+	";)E3.)N3[3@6cD&",
+	"QfRP9UwlCSSaBRU==",
+	"QqJ/7dwJO",
+	";5Mr",
+	";R@Ig",
+	"QxfjuEU51iF==",
+	";&Ekncut!83",
+	";3.m36<Lg6&",
+	";E-R^jN%\"\\",
+	"Q/VaJ",
+	"QPb/P7UOJHsDA",
+	"QvrJF7HqcmOHwkkVI",
+	"QsqCOgVKzEWP=",
+	"QShSx",
+	"Q26W4vKPg",
+	"Q4Wsj0I1H",
+	";Hef\"2chai]$`p2",
+	";X7@]$-0R=",
+	";'>Hso%ssq0pb5",
+	";?AZgk4*",
+	"QP3yxoweOw2==",
+	"Qg+gatF==",
+	";&.&Q-;JEoA>slk98]",
+	";Rh`.$RRE\"n",
+	";Y(3Ta+(",
+	"Qu8RTD+MvTYj8phk=",
+	"Q9C==",
+	"QDFZZvXb8BYmM6U==",
+	";NW=1(",
+	";-JN7=70\\4C+[R",
+	";C#Ee#",
+	"QHBiuj+4tW2==",
+	";/71`d/9s*Q",
+	"QCpvmkJh=",
+	";8qQV3fSf",
+	";?!jjI'JkOhGF",
+	";6c8..)pnS=>3\"^/Z;e",
+	"QS3ZdEK6nkvF=",
+	";TEX9T-.KS`",
+	";&FD72Zc-.3PG[",
+	";U.o'T'niP",
+	"Qe31BFvuZTas=",
+	"Q/c72wSY7",
+	"QnvUBg0qbjSal9W5=",
+	";ih-Yt0(-s=6,&E%84+`t^0C%J#\"aqah?1FZ-'3c",
+	";/fQ))",
+	";qq11+;^lU",
+	";u?/<u",
+	";'jQTc",
+	";d'JN7FARUpeVJ$G?/",
+	";8em>/2T",
+	"QXERrIvNaHPs=",
+	"QTi1F63AB8IEs/RfFUC==",
+	"QYW2dasU=",
+	";-(f#GhDaNX",
+	"QhNkunvGwhBpJ",
+	"QRfpcvPkkXrUexC==",
+	"QpTgpNhT=",
+	"Q/0Iivk6E",
+	"Q6vM4Wj7irHAPaz9fazZsJtx2rEhBbDABdC==",
+	";#cp9M",
+	"QPt3A6iULx2xQ",
+	";k7rB`(&",
+	";&;qsm/NA,n2(",
+	";m0iu,h4",
+	"QZ1JNfBtpRF==",
+	";4WHNN9e2",
+	";*_$.ol\"`g",
+	";ogI#L",
+	"QcDDHtth=",
+	"Q6XiVSsOpEMqidA1VjC==",
+	";@HdXI&aH7<eW.Pq%\\;h",
+	"QuYuuiwIsczU=",
+	";9%SrK4K)LTh4",
+	";H!`ur9G<g",
+	";JZn\\SN&",
+	";r)S+J",
+	"Qw//dbzAD",
+	"QsWIRKrTln25=",
+	"QWv4bIDFWht2=",
+	";X).",
+	"QXY39eDm/E4bxtz/K",
+	"QYlW4iiIu",
+	"QFTB8sdKiAdnH",
+	"Qtgycp+EY6Hr1O7s=",
+	"Qjq/cvVx/1LC=",
+	"QassWhC6Z",
+	";p.",
+	"QxM8cNC==",
+	"QMbq4nIU=",
+	";k1u>fD]ZHTO^-d$",
+	"QQ7McQp2X92==",
+	";R(eX=7T",
+	";D@>f,9/",
+	"QOheqofOfk/LN",
+	";E_Y7pgN",
+	";(@R@)I$F]QSPGW/]WfhSM[B",
+	";Wp[J[`XFq<f7cD-",
+	"QD3sSifsw9U==",
+	"QkFjUfyoi+C==",
+	";`/AUMYMrI(m`^ha;6",
+	"Qv8PSF30=",
+	"Q/8r=",
+	";-*?[",
+	"QtBvayF==",
+	"QoH72qy/W+YpArF==",
+	";\\;Cff",
+	";QV'o1i/i;L<8H6",
+	"QRb9zyD/na2==",
+	"QgV6TvU==",
+	";!,[O0^%",
+	";:HTH*M*",
+	"Q9/mK1lf+",
+	"QWt09yx2Jv2==",
+	"QmEHLal1eyyr56U==",
+	"QQK+bDaa=",
+	";B9_7^",
+	"QLk+W",
+	"QvDm7ldXwHMWY4zWk",
+	"QYWbwuuI4F9EGOU==",
+	";3`tOlOB_15t]_",
+	"QehQsEA0w",
+	"QdjAqW/0=",
+	";<<LS&M-oN3>Y\\Gd",
+	";Y0Ko;B%W",
+	"Qcsai8uXuPOgci6lF+ST=",
+	"Qjci1g/uolrjpI2==",
+	"QZWypZ9F=",
+	";/=9AE",
+	"QyKwLRgv1j2U=",
+	"QxC8CjC==",
+	"Q/gi1aoqOPXr=",
+	";XBJq.k`\\e:",
+	"QaV3YOdnclyX0843fru2=",
+	"QEt0X/Ko8XqPBO0YGrF==",
+	"Q9lU18NOf7U==",
+	"QrwYqfXa=",
+	"QSEgjil9B8Px=",
+	"QZ0Tks072",
+	"QzLYOE+ri+m2=",
+	";ZhbkUNN4",
+	";tp>(]]sP2+c!kaXMPjsl$]c(J4I\\%s!5/)RKF+,gV-'l",
+	"QvDKpThXC",
+	"Qo/UwpfEQX2==",
+	"QWmiwO3uT",
+	";(\\WD%G,#h4IR;og2!RU3",
+	";p$$+]@iV&1``Cm/YLep_$)\"[YF?KZ+3Lo%/)qpGa",
+	";JQ%F#",
+	"Q8+s=",
+	"Q7wwj/Z3XlZa=",
+	"Q0wD4qwOp",
+	";RTlT*fV",
+	"QcnNKpXZ9hhc1Drr=",
+	";]?Np.($>X",
+	";#45Wl",
+	"QM+6zSz5=",
+	";-M5nO",
+	"Q8LP=",
+	";GV2*0",
+	"QnfjP",
+	"QsvA7MkS1",
+	"Q8tDoQEwr1F==",
+	"Q0lyor7uAgU==",
+	"QpihYzxeY1q5=",
+	"QvZRX+F5Xkj5t4hHDZC==",
+	"Q9SLiRs1NH2==",
+	"Q36DQnUHIdZs=",
+	";uA=*S7(",
+	"Qb5x987bme2==",
+	";INnq",
+	";r$K8Yc@",
+	"Qdd9bY7C=",
+	";eCf?P",
+	"Q2Tl2rI4y",
+	"QVsHTZh5tZjloOq2=",
+	"QiZWaEss=",
+	"QZrdfHwx=",
+	"QrdAqY/hXwF==",
+	"Q+vtB+ima0n0=",
+	";m''K",
+	";Un1p",
+	";X&TBuOWA",
+	"QHAWyq7qkQF==",
+	"Q6mkSfnU=",
+	";9/",
+	";a;BXrJ+N=",
+	"QK1bBMLJuXC==",
+	";AHq%3;1E",
+	"QO1lFhzP=",
+	"Q",
+	";-*^)LJTFaJfh>Y",
+	";G8)qt&QQ",
+	";oZ$tioF4Q[FP'#",
+	";ZZ'Rkct`0F",
+	"QbsdAFRH=",
+	"QJzo8R2FI",
+	"Q+MGgCiwmgsa=",
+	";O$&5bC'oFJ",
+	"QRIB3",
+	"QKpVPmG5So7T=",
+	";fgc@YI4",
+	"Q1mhTE61a2dnsE2P=",
+	"QfMRIeU8z0i0=",
+	";0P+E7kU;&l#%",
+	";/^7%I*ZY'kbbD",
+	";qJ+8hOT",
+	"QXD9jGXFVp2==",
+	";a;BPN5`)ml7936",
+	";phr`rEZ4",
+	";dGCG^As",
+	"QtJSg2AXu1II=",
+	";C0QsL:s",
+	";<+M6",
+	"Qpo+R",
+	";mF^H]MS)%",
+	"Q/DcX",
+	"Qo5ktBQ0=",
+	"QGvjibC==",
+	";KTJB8^53\\",
+	";/I%*%>b]r8MK^&",
+	";5n4br?&X",
+	"Q0WjEzY8r",
+	";E9?c",
+	"QQONLekPV7IPPh2oNNC==",
+	"QQFBxzrH=",
+	"QTz/mSZ3q",
+	";VR]CYuX<[5+)3T^",
+	";:.h-UCGq",
+	"QipSaoKZJ",
+	"QjSfHfZI/",
+	";VdmQq\\d#b5qGS\"YE.ZMF*EW_kN3*\\!]pW\"\"ZmoE6",
+	"Qqn3Ud3yGNpge6sD+N+6YzQkFTZK0MxllZF/F0DlxLNChEF==",
+	"QoGib/t0=",
+	"QmvGfoML4eJzC2tQjj2==",
+	"QiG4gK37F0j3U5Cj7yF==",
+	"QNXQxg8I=",
+	";-]#!!>'82",
+	";`]ZB>>*\"r",
+	"Q37bBApa=",
+	";\"MX1#",
+	"Qxk2uKge4",
+	";7s&\"/<^",
+	"QtHaKSkjZ8KF=",
+	";'\"Xp",
+	";\\B[k>t9S!d(.TJpPuU7G",
+	"QKbzQ",
+	";9UT",
+	"Qgl97eYUXtza=",
+	"Qmu47DDGUy42=",
+	"QhuUh",
+	";!$]h-r)H",
+	"QKOQ16i/V8xk=",
+	";S,;7(!L<6^FJp`ig-QocCO/",
+	"QrP6lJF==",
+	";E^B):E]R",
+	";+-7t.XEi",
+	"QPS09ywI=",
+	"QKdVk",
+	"QY+ew1biu",
+	";q?D",
+	";t,D)+aQ-^g1EIO",
+	"Q0qwTrKm4b7tdONF=",
+	";E>HL%]:",
+	"QyDljLZ+f",
+	";1`GSHit+h13;-k7gjd?",
+	";&:=YP?E,t=",
+	";SPY5\"+(",
+	";u[LoF#2lO>EV5opHr?MD+Pm*5k^,s!r_",
+	";rbtPDesg]",
+	";h4C",
+	"QQL20gJLq",
+	"QKhDZbUWJ",
+	";>\\;A9'k",
+	"Qu/s3LzbrlO+6sKf6ktr7/IWwSL+o/1eX",
+	"QNgON4Z/YBznedix=",
+	";Tml.R''8_a1:T",
+	";/*NCB",
+	";oB\"<f%]62t",
+	";DpRE^",
+	";&^(CqP)Qp(F`EA]",
+	"Qt5+RK22=",
+	";\\G4IP;M#Ijo,8<(o^",
+	";Y*kT]#'0\\I@2@fGCBS4BBfFL.gd@G'o2+J:X%%`'!fPsT4j]NlULH::?oYgT(IKSW8M-'_EC*KSR-Z'uuk(kWjVhnS",
+	"QyCyQ+6U+uInLW72imU==",
+	";JN(-6it",
+	";(Z71W0W",
+	";p3u*ds*4*o",
+	";*`kme2`5(M",
+	"QbeyrHuHIPU==",
+	"Q1BEAgF==",
+	";8'Ll*56",
+	";aSu.411P",
+	";Z+h8#",
+	"QDVuOKu3y",
+	"QZ0C2++BnCC==",
+	"QLxxBDpP=",
+	";kM9B>/J_L",
+	";_[7dC*r?!I/U\\t",
+	"QgclCROUa",
+	";Rm/LP`@P2U",
+	";A92oE$P^Y<",
+	";a%Z#EoL/f+u,#^",
+	"QYHplJ7AXRxDwB7Yel8EBcOmUg6vKGIFuVGxPht23MC==",
+	"QgJYk",
+	"Q4ekexU==",
+	";JHSln_X=-VN*",
+	"QWyDXzHQrPpN4yNtC53WJdeoxa9Hm",
+	"Q8//NMU==",
+	";\\K>Pf(itK.<Sl2",
+	"Qr/jCMKs=",
+	"QP19nxTa=",
+	";*b,62\"8",
+	";F##ff#%",
+	"QFpbBjXgJyd1/gZ4bsC==",
+	"QitGOFEyBLCIlEAw3HC==",
+	"QAr5OBEP=",
+	"QYYqD9T0=",
+	";A0*%p$3V",
+	";c)&osTj*+S63hp2",
+	";WA.T3B/SY5`H\\\\f\"iu9ACk/5%uWKlu",
+	";IKYd.HH",
+	"QuYnPl4kkDsI=",
+	"QOA84sZOe",
+	"QlgLp2kI=",
+	"QXCSpw3YV",
+	";usIa!ET",
+	"QTCcF9swVKXpY8Mefe/P=",
+	"QUVy07AFueMvfoHI=",
+	"QAk72fxT=",
+	";US113N\\-I6",
+	";B[\"Q4sR#2]l9Cb2V+^&!",
+	"QWbMPubRw",
+	"QhugpZEw/S2==",
+	";Erq4%Ss",
+	";ufW1&p]Z.(jn^GM",
+	"QWsbUwJyR11j/J48gN2a=",
+	"Q+2daZnpLnQa=",
+	"Q2DGQSC6j",
+	"QGIlh6tASks2=",
+	";Ebfa1;os",
+	"Q+itmPJU+/ijJTtH=",
+	";s#8b@",
+	";d5![6",
+	"QqQB6H466JabfnG2=",
+	"QP34D",
+	";r4oQhVo+",
+	"QLybtkKLAGbb4X2==",
+	"QYzr=",
+	"Q7vEnLF==",
+	"QQ6B2d+C=",
+	";%cesZ_HUY'",
+	";GU`N(\"Old",
+	";J9\\7\\Da](NesY+",
+	"Qp9lZYua=",
+	"QNMSHjjPIZImb4X2=",
+	"QispWzfQjWC==",
+	"QvjDKk2==",
+	";m:UQr&HM8C,HiNsj<BKW",
+	"QXenxIfbiApcXeTH=",
+	"Q4QhHXF==",
+	";BpkVe",
+	";YgZP+#\";:N@%",
+	";D:KIN7bA",
+	";r?BsfK0k",
+	"QjL0bmiUy",
+	"QAywqLblTO8Ht1pFz",
+	";B4HlGIkn.o",
+	"Q1NmtF7yNG5NG",
+	";lSJOe)&Z",
+	"QdwBBcZK97xDs",
+	"QWBEPHm/CcC==",
+	"Q4HnAzU01OQQpcYGk6ORdg+ubbbmq0Fs=",
+	"QqV4Zzm0=",
+	"QGnPEo5eXRF==",
+	";iMOk6baq",
+	";@'/k",
+	"QXvMaDNT=",
+	";5@q&)-WM",
+	"QBQfAMLKelDx=",
+	"Q2y9Fdulje2==",
+	"Q1HkS8MfzkA2opbg9hAyqo+vZ",
+	"Q5Pr0A+11upBHyC==",
+	"Qx0RrmkI=",
+	"Q1EPiSE8y",
+	";'4&0<O%Y*8<_bfLK930>sp",
+	"Q4MUpSSsy",
+	";C57gC)Gj+rqo-a",
+	";aQalYLtj+\\Q4>rP5>/UX",
+	"Q1fVR0jPZJXPDUOmvEmm9",
+	";W?S8'",
+	"QP7lVcoiPL2==",
+	"QKa97S0k3cIYaLqa=",
+	";d7C`,jhS9[@i+'1DG1`#j'RE;",
+	";bb6JTEmfP",
+	";'Ku\\g\"#F",
+	";5cEtRpX+tG",
+	";R-Y3FO(S\"lg\"A6^d\\+PK",
+	";rkN-8HLH?Qc5]",
+	";N1a$^U0t",
+	";S((d923",
+	"Qsf9ZhU==",
+	"QMjqCzRU=",
+	"QNxgG",
+	"QCvGyzJ66",
+	"Q2ho5j9PHL2==",
+	";623aTh7_dRe&h",
+	";E-$2mDN",
+	"Q6/JxNKZ0+GhUvDj9R/HB5D55ZBNad8OlYH11",
+	"QsnAVRtr=",
+	"Q9fXJ",
+	"QFhAkFI4J",
+	";^S(7(haKLYp9",
+	";Op./F",
+	";4loV3",
+	";eb'E-7p0:tgJ",
+	";A(U#FN&",
+	";+p/\\%!\",Ve",
+	"QZGz+",
+	";jl:nb%I4",
+	";_<rp:\\m\\V",
+	";rZ;/<",
+	";H*,b-#%",
+	"QjKbptm+nZOa=",
+	"QV7HPY8e6l5Ig/sk=",
+	";RU7_jfbP",
+	";MU$tS",
+	"Qd1zvA6Uc",
+	"Qrekklp5=",
+	"QySPSCC==",
+	"QmgP6stQINtov",
+	"QpbqVmTr=",
+	";l$m>[-3",
+	";'C9",
+	";0_hsukS%",
+	";fB+'g8@",
+	"QhLq+VZG/",
+	"QCeZUK2==",
+	"QXqrFwixpGU==",
+	";.=",
+	";;PIX\"p1`]igst8V",
+	";pjLU7W#&",
+	"Q9GXtWF91PESjZWH=",
+	";1?nSCkI8oOc/rQ",
+	";LFP:`kA?iWEM6H+b!HRURLj",
+	";?R/BC",
+	"Q1ea4TC==",
+	"QtLoopnCzSt5=",
+	";X?\"q",
+	"QeUHVya2=",
+	"Qy8BSofO+2q7E",
+	";*p``S@LagG",
+	"Qjr7aqga=",
+	"QlpP=",
+	"Q+3lvRSh=",
+	";F]);Z%>-T",
+	";3K^%!Y-)u!0g]XB8+$&;X<!cg",
+	";$0)0:2RHCi",
+	"QM9P7goN2",
+	";_?CVS6^M51",
+	";&/cNk'Zp_",
+	";_Sjp>g>Zc[_FH1N^^@+%",
+	";H#o15qsM",
+	"QEAlTYF==",
+	";;-Q0,:lquR$agDUN^.-G1@qTbQ4",
+	";IQBmS",
+	"Q1bqXLmRV",
+	"QJSR8Q2ZNber=",
+	";Q><QB",
+	";X'8.,J@",
+	";?E:",
+	"QjrToKg5N9u5MlF==",
+	";3a.f",
+	"QeHFOIMFuy2==",
+	";Sjm",
+	";74\"QOGF",
+	"QaYTy/5H=",
+	"QDfn73fWwFFvRrED/eHDfm11ihx2vQMfTj6E2ec7acTWQvAsTeC==",
+	"QEsEZiF==",
+	";%D!,",
+	"Q+DbqkqxnRkR5UC09OgU=",
+	"Q4HR3nSP=",
+	"QFv92IU==",
+	";m>CF[8&XC6dF0",
+	";.X-/]I/i",
+	";U<S_?(*",
+	"QCcNtB0POUC==",
+	";(KGu2gJ",
+	"QQTHEX61Z3CPWlMmOOU2=",
+	";X6_H>>e5P@&V",
+	"QEYi/kxh7gf4v",
+	";R)V-VOQ]_m",
+	"QmKdeJjiItUKakNdL3eCfPU==",
+	";jjL:sR7U9*(&",
+	";sA4+p'k3",
+	";\\Kn.U*.",
+	"Q4pB53RA+470=",
+	";eJc\"m",
+	";5B?:Dg)R",
+	";&`!N[<^",
+	"QeAmB8DXWvBa+aEtn+R4peKUm3d1nQE4WV3co1q0PsHLUtWo6vWP=",
+	";bYiN>@F",
+	"Q5Uqd2F==",
+	"QZl4eRaC=",
+	";KhJ(+`h&4aWi",
+	"Q+mVt/ZAHuU==",
+	"QYGGCosr=",
+	";+'X[Vp5e7",
+	";KFlTJKheW6fc-(u",
+	"QEdB+E2==",
+	"Qv5uI",
+	"Qsv3gON2=",
+	"QhF+ImqBYFCx=",
+	";6-B4+tLh",
+	";&PrM%",
+	"Q3zEVSZI=",
+	"QDC==",
+	"Q7gozAKXj",
+	"QRnnkZF==",
+	";BL7-;olsFcYb:;B",
+	";kXr8!?<3kV)mNbPB3",
+	"QQhbe6p0=",
+	";O/O;pEoq>3PIF$",
+	"QF31LvnBpbmhL4U==",
+	"QCt8f6Qey",
+	";4sL])44P$^MCa",
+	"QFbx9",
+	";Ur1E7",
+	"Q/Ubju7WAm4EgM8n5GFQvsU==",
+	"Q9qvYVeeNkF==",
+	";h0\\-\">8cC",
+	"QxyJcQQ2b",
+	"QaQdJ",
+	"QhMwsF0Bg",
+	";n)XgX",
+	";LG9`*rg7=",
+	";FZ<+tm*",
+	"QiqUifC==",
+	"QWRMEH/Fw",
+	"QJCzLmxH=",
+	";@0*q*1_YUV\"7P*'",
+	"Q5urX9wa=",
+	"Q3e0PpFvATBZjELU=",
+	";gf*Ab",
+	"QIDH1JC==",
+	"QrdUt9MsMvaU8uoeXkC==",
+	"QheFrYPk8OaBmPnFCFybGsbNRyo3qsr2XVtr=",
+	";L>q$TW&RV*",
+	";7;:Yk",
+	"QMhEqDLZ8",
+	";I/aX7",
+	"Qz1fT22CR",
+	"QFBiYHCGzH2==",
+	";;-/sZX<<$2",
+	"QOq+pthF8",
+	"Qx1wCWFlYuYa=",
+	";13.m;$a",
+	"Qeuzq",
+	"QEzjNr2==",
+	"QQjvPNafZic2=",
+	"Q170=",
+	";jl03:$l\\,hGbj5",
+	";0mK2DYacg$t.",
+	";pSDnbnoDE&.HZ^",
+	";tQ2uP;8D8",
+	";A].Y[",
+	"QNnhIcFo1bkk=",
+	"Qi+nKUU==",
+	"Qn2ACOX67uC==",
+	";A\\Jq9^_<G):?K]G",
+	";:,8^-?/",
+	"Qf/OVb2x=",
+	";XEi/509/\\+-mF!",
+	";sL2Pd`?!gF5+/\\)",
+	"QeHrZNhzQ",
+	";4!JVbmbVYRA7?",
+	";--fuh",
+	"QiK9BZ7r=",
+	"QND7CM/Uz",
+	"QnXcNYU==",
+	";LrnfJSe\">^",
+	"QtiBtlIyNQjEqM6DsJr7Hq8+hycs=",
+	";ar&(.h@&45@iVZ",
+	"QS0eTrbvCGksUQyGw4Zxn+F==",
+	"Qb6vrWZ9UZM/lQHrq",
+	"Q+eMSrsUV",
+	"Q7CCS5C==",
+	";rT^hh*Xh(tS];s6V^",
+	"Qg6mOJs8Et/lf",
+	"QdD+0HpF=",
+	"Q7Q0zEE1trCh=",
+	";pF8>njA-.D(\",iUOT",
+	";Zmjr6",
+	";]+A(6#SP[R\\^Z_",
+	"Q5Pk=",
+	";<b[<h$+=#eE]l\\uHeQ7d>e)O/6u]C$:T9B0Ah1J",
+	";k0Co)i-Z;5",
+	";c(=JP^&<",
+	"QZxxQ2bqE7Ubnjs+ONsN94y+6CrDNuRwed/yC",
+	";bcaXA8f-,2",
+	"Qcv5qml7PsdYZ",
+	";DHi^*",
+	"QZ0tYPU==",
+	";':frVH+'f.KmI",
+	";9@f\"Eo6%]o(Q,+MBVGj\\\"@aA6EeM+\"Uu@ZnT0oK;)&",
+	";)*\"-04mKkc##\\_.XV",
+	";9C3$@kG",
+	"QwJry",
+	";6'CU>XPZ\\53--2",
+	"QKhK+",
+	";)rj\\6cI=cjPYKOo",
+	"QgDl1TZ68EC==",
+	"Q8kVmQDcm81tWOY414QT=",
+	";o'klcqEmm",
+	"QGKyoqCo0+F==",
+	";DdJ",
+	";>;'\"",
+	"Q8nF=",
+	"Q16AEpB9f9mLW8gI=",
+	"QIf2b1ORNAU==",
+	";->Z]O9.X",
+	"QtAf0JBaJ6bk=",
+	"QOq2KIwx=",
+	"QF4lDHJ3kTtBB5rTcJ2==",
+	"QXrVDpU==",
+	";'!BX\"Y*",
+	"Q9tdKDXV7o/xxA6C=",
+	"QsddosU==",
+	"QpSc3jdaZKPT7",
+	";k_)@X/=D",
+	"QQNwPAuP=",
+	"QG0sWB9EUs/dR52==",
+	";G1QG9<_",
+	";egER1bdBMG",
+	"QmnpQs2==",
+	";)*Ti`(13j-Xd",
+	";_h\"q4",
+	";+NlZlS8c0t3;\\5l`N",
+	"QP9Fmo5aiC6C7MFI7DotQ4Ps=",
+	"QF8IDXSC=",
+	";O^?\\`O?r68dWXGWtp",
+	"QwPii+2jStsBsRF==",
+	";7u18,",
+	"Qh2c2bTLvmUH=",
+	";-\"%",
+	";9\\^d)N&",
+	"QyxiMqOCaDCrXU3F=",
+	"Q8CizvF==",
+	";Hik58",
+	";(.Gbp9V",
+	"QgFymUoUEFa0vhvtGTMOp7U==",
+	";Y]e'BdS;",
+	";9.uTu0HmT(",
+	"QL7Z9F8iXKohd",
+	"QYgI=",
+	"Q67YipXC=",
+	"Q9aCOQq6tp8P=",
+	"QdJWEOOcCqHH9ydu6",
+	";!0t%>N$",
+	";Kk-egR*%",
+	"Q2rGHXGgfxC==",
+	"QQ2MkXyCq",
+	"Q9P33",
+	"QemYBFFh=",
+	";E]6`F5C9",
+	"QZrhutU==",
+	";7:A!gX\";5ihU/>1",
+	";RVfIthJA\"Yit",
+	";Qaf4]8PlCK7()qi!=Qn,]Bum&Pu]5,e?*laWN$,Y,++p",
+	";ra?A(",
+	"QPIi/lxTQwggTyJWI",
+	";WPq]rj*M`\\",
+	"QR70T",
+	"Q1WSWUvR1iF==",
+	"QsTN3ZAikQ5QsgcZq",
+	"QDoPWetguEe6ayXT=",
+	";7_aoJ]YC",
+	"Q9vEuA4PB",
+	"QtGSc7XC=",
+	"QJqR4Pv97Q3a=",
+	"QcIk=",
+	"QhkZrV50=",
+	";/]lKUbS`RMCjU)kEm`TYobd]p$\"k(Z",
+	";T'B*GY\\gG>SLK<F.rcG/R[8",
+	"Q+kOxvVjEYWa=",
+	";YHj5Zgr?",
+	";ZL@%HRF0",
+	";#:g<=b/7.>",
+	";H51&'h!(h!e'c=(d3`JmhTJN4.=",
+	";nK\"Ld",
+	";<0@!l",
+	";NeB*1;QI)MN),dHStN",
+	";t7Fu",
+	";;kF4atXU>\"(*",
+	"QXn/LkFQyRUU=",
+	";Hcc7rMh\"",
+	"QSMfQIcMDowT=",
+	"QdUipF4xMsfGrQlibxxUbzOMgW6wu4j6DoF==",
+	";qdIZl18btjE3",
+	";%DHG[\\<[S2p.",
+	"QNn0q",
+	"QQsrSLGFIukPszC==",
+	"QYgkD8qv7CjdvRrHvOF==",
+	"QaKw97jWj",
+	"QteAwA2JI+q+8L2UtlD5wmiCCOVEpYhT343Gmz9OjxqeFQw7IRFgC8LrPKU==",
+	";UF3X-H\\bN]_>j",
+	";K*E0bJk",
+	";frbumN:g$<VD38AEf\"$^OUI27h8nQ%;t[Q%/Lm'au_7t",
+	"QWmSkpUrAEge1caEn",
+	";7+@pV",
+	"QYsBpjHRS07C=",
+	"QjFiWRfVG",
+	"QcRsuBq2N5F==",
+	";6%QU_^X",
+	"QtRLq",
+	"Q8zWHOF0=",
+	";PMjf;",
+	";Wl;X(",
+	"QLSVuVU==",
+	"QdfI=",
+	";)^.6*",
+	"Qja4+SARW",
+	"Q8A/zW2==",
+	";H>,$$#oj5(fV",
+	";jj+as",
+	"QElPx4lmIVxH0C/iWT6zXfTI=",
+	"QprXr2TxX404vOU==",
+	";$gNY=N];62Wi",
+	"Qi52D",
+	";RPTun*kh3ISWJoHAmh9!(*eJ1",
+	";@nn.",
+	"QTfZ33EoGb3P=",
+	"Qr4lLBQJVV2==",
+	"QXwVQCOI=",
+	"QcWAnRLEj681Ygz5cDF==",
+	";MBr>5B1iL9",
+	"Q1zCcVC==",
+	"Q//IOkDcv",
+	"QdUllbAymQ4XZ7kC=",
+	"Qc8u8U00=",
+	";Y,8S)at",
+	";*-QM",
+	";?n\\38jn^+Q",
+	"QuTI=",
+	";KH159ILVdD",
+	";E`WN0",
+	"Q/kqph2==",
+	"QI1IWqmWPzoC=",
+	";@/1;@Oq",
+	"QZbktcTI=",
+	"Qq1Jih42N",
+	";cs;\"2;4",
+	";T?`",
+	";k8O",
+	";B0&$&iV;n8mB?^m",
+	";;_>O^jp6XJ]D9d84E;Ll<C0rn9AP)b01m",
+	";p>kCellOYS",
+	"QhYTF8/VSzQX1IF==",
+	";%<=\"#",
+	";L][T9",
+	";_LBJsJTL.m79/",
+	"QqbjE4F==",
+	";$@Ean&=",
+	"Qv3dvijWVdis=",
+	";oD)68alSMm.7`k",
+	"QzE/xg7x=",
+	";'*!HbVq\"",
+	";AElX",
+	"Ql0onsEvWRnH=",
+	"QxHhokS5=",
+	";$_7",
+	";2^\"E;6*",
+	";8Kk&1/c#",
+	";M,FM6j$Vc;U]m<hh6",
+	";+9mXFgdj-1",
+	";ML3O(J@",
+	"QOO53kcQSO2==",
+	";_b%EV(06\"Lc?;#sDN2niMOJMd\\CV$q\\qJ?U#Dqed3s::#X\\EI<+F[%ZtH^[&DN",
+	"QoNaY/r2=",
+	";iOJ<sr_",
+	"QoEgNybF=",
+	";,VDGpq@",
+	"QpwkuSB1w/wOSCwYz06rktKdH",
+	";n/;#hITrC[<rXhn",
+	"Q0Ilb7Dgp8SPw92==",
+	"QKT9G2d1U48DQ8hRO2La3kU==",
+	"QZ7kw78bU2Pr=",
+	";sY%a9em",
+	"QviiRrFz6oa68",
+	"Q+mUCBMO+M7RZtWx=",
+	";^;bCAN7@]`B#Ea5",
+	";^'q=A",
+	"Q0ZkbgC==",
+	";)5_7sq6,Uj2^NlNH4KphgN",
+	"QRE5fR6F=",
+	";oLEC=4jF",
+	"QTZy27TWn",
+	";I1^QI3CUcf.d",
+	";<#P`03;b",
+	";R5NFL-3",
+	"Qn7wdF2==",
+	";^%s!1O_+6",
+	";!/2r\"6#n",
+	"Qze+DRDeQywYIbO0=",
+	"QC5E2s2==",
+	";K/Ep$&jH!",
+	";kooPP!,J",
+	"QLU3wt0Nr1KGw",
+	";Np_+Ec?#.U",
+	"QlCCMuva=",
+	";c`k/W]#:br7tIp#FZ7qiq2791];*uTGAmq/FPUU?W)GtVMjmEuTTjW",
+	";+dE",
+	";>M3E;KJ",
+	";6In",
+	"QOQAGPpH=",
+	"QuR35z1n8e4/Lfbk=",
+	";\"NbjqF/47J9@t",
+	";(-?oBQ4",
+	";),:=u",
+	"QFPmJB3JQ9Hqm41I=",
+	"QpwfcLnwdN3YRLuK7Nu5sKXpVamY0D5PY6C==",
+	";bI(c)",
+	";bpLC3",
+	"QKLRJOiTOO/krmvnBmZkq",
+	"QVJvbYfK+",
+	"Q2jdDSu3nxv5=",
+	"Q5ZRFSF==",
+	";)LkW^)!Y9",
+	"QoAdQuIkGQUr=",
+	";+d8MEa6KQ",
+	";8S0N",
+	";hN0bZ2@'3qd06",
+	"QmlfHCg2=",
+	"QarEEGC==",
+	"QytE4",
+	"QkL8/SU==",
+	"Q3YlQo7di",
+	";rX.ER;N_[&",
+	";(<q#@8e`;",
+	";lU<8US!",
+	"QESFn",
+	"Qv/ygUF==",
+	"QIysi38r=",
+	"Q1mElRfC=",
+	"QYALFCU==",
+	"QABjRlAP=",
+	"Q856txB2=",
+	"QbJPUJC==",
+	"QPYDDyZr=",
+	"QDFv5kDboNq5=",
+	"Qk5vC",
+	";nTi[",
+	"Q0XE7He2=",
+	";'i^c-",
+	";t6UGZ",
+	";iQ0f_>/aLM_:t'LGt",
+	"QChnvW9F=",
+	";'J:Z\\aa^",
+	";\\]7.ji=l..a6Ue",
+	";GaMO&V2L]7qeM",
+	"QBdODdW0=",
+	";<Yt)jE3",
+	"QOv5=",
+	";\"P=Z<^Pd",
+	"QfdSIlz+l",
+	"QohV671oWHbs=",
+	";:C(4iB3",
+	";U^Wk",
+	"QvKtXNC==",
+	";)S37Pj^3K#",
+	"QaFTgFInHbHQGS7bzk938IBVArqbvYh5=",
+	"QgKng",
+	";<RbBm8`b",
+	";oc(B!jY",
+	";.]jT;F=",
+	";R4io]2-8V.",
+	";`'mjh<M6\"",
+	";iSebkI4",
+	"QR1BkQ6s=",
+	"Q+yEV",
+	";%W1U=JMp$WEMA\"YRob&",
+	";WUGqS2kb:V4*",
+	";*fp",
+	";CfZgcHcO",
+	";3\"HqEk$,iK9,3<f?3o",
+	"QlxGiHF==",
+	";N:bC?",
+	";t;/J=p[k",
+	"QcaOKXEdAlO0sC32rYMs=",
+	"QcG8vEkcDVd41",
+	"QdYmDLiR7q0AK",
+	";V.\\(\\&WdL_bf>",
+	"QmlCkQYb26wlJb5C=",
+	"Qt/Su7F==",
+	"QFbVn+V3DU9x=",
+	";)4'[",
+	";%C$Bf`:f`:H;WQ_C1",
+	"QxafliN0=",
+	";'JZ*gc@",
+	";7T",
+	";H5=",
+	"QtthsfsL5I2==",
+	";X@3]9&5@;]FJLso&P)7,36asU]%",
+	";Vt5WKtOaP2!.",
+	"QRtWf12==",
+	"QF/dv1JiMN9DJ",
+	";$\\Cfi",
+	"QndQCtGGWdZ+F13gipC==",
+	"QACXOViwrdC==",
+	";/t$IY",
+	"QeoCEf8Mz",
+	";fT64$",
+	";'*ldo",
+	"QmI/7eN+f",
+	";LTr%:+M",
+	"QWcAfi2==",
+	";I!R2Aj,%lQs:Sq",
+	"QaNuMCvP=",
+	"Q7oFZ",
+	";Hsjt^",
+	";N]d/tM*",
+	";DfPtp",
+	"Q7raS79+0HM2=",
+	";1ltjT>#'kAAs",
+	";)hIT/T^DF*",
+	";^E%[Hmr8Y,",
+	";kCMY6Hc.PT",
+	"QIMpPVo+Z0QINIwZbpF==",
+	";-3VZV<_",
+	"QRxVGnF==",
+	"QyBnX7yPZtlWYHXI=",
+	"QgwYJcgI6",
+	"Q6BvKwfC=",
+	";i7^",
+	";o)o!P272",
+	"QkXwY3C==",
+	"QeArotFIq",
+	"Qb5/ek4Ab",
+	";E^[gVGeuB5Fg=R/)SiIlBWVMi,>**IdN/",
+	"QdWwqR/QoiyyZClaxX5qQxU==",
+	";0$A7iQKA0XYS",
+	";&_km'",
+	";(lW[=",
+	";1OeG2^;2]Lc#*",
+	"Qk2T71918gF0=",
+	";V[0uMpQ%\\I1:FAt>.43;QQdbpi%",
+	";S*;qTq`h",
+	"QFgJkz3rNlGOfkF==",
+	";\"\";St@t"
+}
+local _type = type
+local concat = table.concat
+local insert = table.insert
+local t2 = {
+	S = 9,
+	["&"] = 8,
+	["$"] = 35,
+	["="] = 84,
+	U = 43,
+	a = 30,
+	B = 40,
+	["7"] = 31,
+	D = 70,
+	["8"] = 5,
+	["4"] = 78,
+	K = 79,
+	[","] = 82,
+	Q = 10,
+	["#"] = 3,
+	g = 52,
+	["^"] = 75,
+	["]"] = 12,
+	[":"] = 18,
+	["3"] = 69,
+	L = 50,
+	["+"] = 22,
+	r = 65,
+	p = 81,
+	["\\"] = 49,
+	["!"] = 54,
+	O = 76,
+	F = 17,
+	t = 45,
+	W = 23,
+	R = 61,
+	m = 24,
+	[">"] = 21,
+	["2"] = 58,
+	i = 39,
+	c = 77,
+	J = 32,
+	["*"] = 63,
+	f = 71,
+	T = 14,
+	M = 15,
+	P = 56,
+	["?"] = 62,
+	["%"] = 72,
+	["9"] = 53,
+	[";"] = 55,
+	V = 2,
+	n = 4,
+	I = 46,
+	b = 16,
+	G = 48,
+	q = 41,
+	Z = 80,
+	["6"] = 51,
+	_ = 20,
+	k = 11,
+	Y = 6,
+	E = 67,
+	["-"] = 13,
+	N = 60,
+	["("] = 42,
+	u = 73,
+	j = 7,
+	["`"] = 34,
+	["."] = 26,
+	X = 44,
+	l = 1,
+	["'"] = 68,
+	["5"] = 37,
+	o = 47,
+	e = 19,
+	["0"] = 64,
+	["\""] = 25,
+	H = 0,
+	A = 36,
+	["["] = 83,
+	["/"] = 29,
+	s = 27,
+	["<"] = 74,
+	C = 59,
+	[")"] = 33,
+	h = 28,
+	d = 57,
+	["@"] = 66,
+	["1"] = 38
+}
+local t3 = {
+	m = 45,
+	["+"] = 58,
+	b = 14,
+	["1"] = 11,
+	["3"] = 25,
+	d = 2,
+	y = 15,
+	["2"] = 0,
+	Y = 10,
+	S = 27,
+	["9"] = 54,
+	I = 8,
+	k = 20,
+	K = 46,
+	q = 37,
+	F = 32,
+	c = 9,
+	N = 62,
+	h = 52,
+	B = 26,
+	p = 50,
+	x = 44,
+	O = 23,
+	v = 3,
+	["7"] = 59,
+	g = 22,
+	w = 35,
+	["8"] = 17,
+	["6"] = 34,
+	r = 4,
+	A = 18,
+	Q = 7,
+	E = 49,
+	R = 5,
+	M = 19,
+	t = 39,
+	J = 41,
+	X = 30,
+	n = 13,
+	["4"] = 53,
+	D = 31,
+	f = 1,
+	u = 29,
+	a = 40,
+	["0"] = 24,
+	P = 60,
+	U = 48,
+	z = 38,
+	["5"] = 12,
+	H = 36,
+	V = 47,
+	o = 6,
+	e = 61,
+	G = 43,
+	C = 16,
+	l = 57,
+	s = 56,
+	j = 63,
+	i = 33,
+	["/"] = 21,
+	Z = 55,
+	W = 51,
+	L = 42,
+	T = 28
+}
+local char = string.char
+local len = string.len
+local floor = math.floor
+local sub = string.sub
+local g20
+local g21
+local g24
+for i = 1, #t1 do
+    local v12 = t1[i]
+
+    if _type(v12) ~= "string" then
+        continue
+    end
+
+    local v13 = sub(v12, 1, 1)
+
+    if v13 == "Q" then
+        local v14 = sub(v12, 2)
+        local v15 = len(v14)
+        local t4 = {}
+        local n1 = 1
+        local n2 = 0
+        local n3 = 0
+
+        repeat
+            while g20 or true do
+                if g20 or not (n1 <= v15) then
+                    g20 = false
+                    t1[i] = concat(t4)
+                    g21 = true
+                end
+
+                if g21 then
+                    break
+                end
+
+                local v22 = sub(v14, n1, n1)
+                local v23 = t3[v22]
+
+                if v23 then
+                    n2 += v23 * 64 ^ (3 - n3)
+                    n3 += 1
+
+                    if n3 == 4 then
+                        n3 = 0
+                        insert(t4, (char(floor(n2 / 65536), floor(n2 % 65536 / 256), n2 % 256)))
+                        n2 = 0
+                    end
+
+                    g24 = true
+                end
+
+                if not g24 then
+                    if v22 == "=" then
+                        break
+                    end
+                end
+
+                g24 = false
+                n1 += 1
+            end
+
+            if g21 then
+                break
+            end
+
+            insert(t4, (char((floor(n2 / 65536)))))
+
+            if v15 <= n1 or sub(v14, n1 + 1, n1 + 1) ~= "=" then
+                insert(t4, (char((floor(n2 % 65536 / 256)))))
+            end
+
+            g20 = true
+        until not g20
+    end
+
+    if not g21 then
+        if v13 == ";" then
+            local v25 = sub(v12, 2)
+            local v26 = len(v25)
+            local t5 = {}
+            local n4 = 1
+
+            while n4 <= v26 do
+                local v29 = v26 - n4 + 1
+                local v30 = if not (v29 >= 5) then v29 else 5
+                local n5 = 0
+                local v32 = v30 > 1
+
+                for j = 0, 4 do
+                    local v34
+
+                    if j < v30 then
+                        v34 = t2[sub(v25, n4 + j, n4 + j)]
+
+                        if not v34 then
+                            v32 = false
+
+                            break
+                        end
+                    else
+                        v34 = 84
+                    end
+
+                    n5 = n5 * 85 + v34
+                end
+
+                if v32 then
+                    local v35 = floor(n5 / 16777216) % 256
+                    local v36 = floor(n5 / 65536) % 256
+                    local v37 = floor(n5 / 256) % 256
+                    local v38 = n5 % 256
+
+                    if v30 == 5 then
+                        insert(t5, (char(v35, v36, v37, v38)))
+                    elseif v30 == 4 then
+                        insert(t5, (char(v35, v36, v37)))
+                    elseif v30 == 3 then
+                        insert(t5, (char(v35, v36)))
+                    elseif v30 == 2 then
+                        insert(t5, (char(v35)))
+                    end
+                end
+
+                n4 += v30
+            end
+
+            t1[i] = concat(t5)
+        end
+    end
+
+    g21 = false
+end
+if not game:IsLoaded() then
+    game.Loaded:Wait()
+end
+print("[Exo] #Load")
+local t6 = {
+	Config = {
+		Version = "loader_1.0.0",
+		AuthUrl = "https://exotichub.app/loader/auth",
+		ScriptUrl = "https://exotichub.app/loader/script",
+		UiUrl = "https://exotichub.app/live_mskmb7a2p8dj.lua",
+		DiscordUrl = "https://discord.com/invite/v8g6tGJSGb",
+		FreeKeyUrl = "https://exotichub.app/getnewkeyads",
+		Root = "exotichub99",
+		Cache = "exotichub99/cache",
+		UiFile = "exotichub99/cache/exoui.lua",
+		UiVersionFile = "exotichub99/cache/exoui.version",
+		DeviceFile = "exotichub99/device.json",
+		LegacyProFile = "780ad941-1694-4f37-8e81-2fd6cde9785b.d",
+		AuthRetries = 7,
+		ScriptRetries = 3,
+		RetryDelay = 1.25,
+		Heartbeat = 15
+	},
+	Services = {
+		HttpService = game:GetService("HttpService"),
+		Players = game:GetService("Players"),
+		UserInputService = game:GetService("UserInputService"),
+		StarterGui = game:GetService("StarterGui"),
+		LocalPlayer = nil
+	},
+	State = {
+		Key = "",
+		KeyType = "auto",
+		AuthFile = "",
+		DeviceId = "",
+		Platform = "Unknown",
+		Headless = false,
+		FromGlobalKey = false,
+		Authenticated = false,
+		Premium = false,
+		ExpiresAt = nil,
+		UiVersion = "",
+		UiUrl = "",
+		ScriptToken = nil,
+		Library = nil,
+		Window = nil,
+		LoginTab = nil,
+		LoginGroup = nil,
+		LoginStatus = nil,
+		AccountAdded = false,
+		AccountExpiryLabel = nil,
+		LoginBusy = false,
+		ScriptLoaded = false,
+		HeartbeatRunning = false,
+		Revoked = false,
+		Resets = {}
+	},
+	File = {},
+	Device = {},
+	Net = {},
+	Auth = {},
+	UI = {},
+	Script = {},
+	Security = {},
+	Public = {}
+}
+t6.Services.HttpService = game:GetService("HttpService")
+t6.Services.Players = game:GetService("Players")
+t6.Services.UserInputService = game:GetService("UserInputService")
+t6.Services.StarterGui = game:GetService("StarterGui")
+t6.Services.LocalPlayer = t6.Services.Players.LocalPlayer
+t6.Env = type(getgenv) == "function" and getgenv() or _G
+function t6.File.HasFS()
+    return type(isfile) == "function" and (type(readfile) == "function" and type(writefile) == "function")
+end
+function t6.File.EnsureFolders()
+    if type(isfolder) ~= "function" or type(makefolder) ~= "function" then
+        return false
+    end
+
+    return pcall(function()
+        if not isfolder(t6.Config.Root) then
+            makefolder(t6.Config.Root)
+        end
+
+        if not isfolder(t6.Config.Cache) then
+            makefolder(t6.Config.Cache)
+        end
+    end)
+end
+function t6.File.Read(p1)
+    if type(p1) ~= "string" or p1 == "" or not t6.File.HasFS() or not isfile(p1) then
+        return nil
+    end
+
+    local ok, result = pcall(readfile, p1)
+
+    return ok and (type(result) == "string" and result) or nil
+end
+function t6.File.Write(p2, p3)
+    if type(p2) ~= "string" or p2 == "" or type(p3) ~= "string" or not t6.File.HasFS() then
+        return false
+    end
+
+    t6.File.EnsureFolders()
+
+    return (pcall(writefile, p2, p3))
+end
+function t6.File.Delete(p4)
+    if type(p4) ~= "string" or (p4 == "" or type(isfile) ~= "function" or type(delfile) ~= "function") then
+        return false
+    end
+
+    if not isfile(p4) then
+        return true
+    end
+
+    return (pcall(delfile, p4))
+end
+function t6.File.AuthPaths()
+    return {
+		"exologin.json",
+		tostring(t6.Services.LocalPlayer and t6.Services.LocalPlayer.UserId or 0) .. "_exologin.json"
+	}
+end
+function t6.File.LoadAuth()
+    for _, v in ipairs(t6.File.AuthPaths()) do
+        local v48 = t6.File.Read(v)
+
+        if not v48 or v48 == "" then
+            continue
+        end
+
+        local ok, result = pcall(t6.Services.HttpService.JSONDecode, t6.Services.HttpService, v48)
+        local v51 = ok and (type(result) == "table" and (result.token or result.key)) or nil
+
+        if type(v51) == "string" and v51:gsub("%s+", "") ~= "" then
+            t6.State.AuthFile = v
+
+            return tostring(result.type or (result.key_type or "auto")), v51
+        end
+    end
+
+    local v52 = t6.File.AuthPaths()
+
+    t6.State.AuthFile = type(isfile) == "function" and (not not isfile(v52[1]) and v52[1]) or v52[2]
+
+    return nil, nil
+end
+function t6.File.SaveAuth(p5, p6)
+    local v55 = t6.Auth.CleanKey(p6)
+
+    if v55 == "" then
+        return false
+    end
+
+    local AuthFile = t6.State.AuthFile
+
+    if AuthFile == "" then
+        local v57 = t6.File.AuthPaths()
+
+        AuthFile = type(isfile) == "function" and (not not isfile(v57[1]) and v57[1]) or v57[2]
+        t6.State.AuthFile = AuthFile
+    end
+
+    local ok, result = pcall(t6.Services.HttpService.JSONEncode, t6.Services.HttpService, {
+		type = tostring(p5 or "auto"),
+		token = v55
+	})
+
+    return ok and t6.File.Write(AuthFile, result)
+end
+function t6.File.ClearAuth()
+    for _, v in ipairs(t6.File.AuthPaths()) do
+        t6.File.Delete(v)
+    end
+
+    t6.File.Delete("asa3323saasas.json")
+end
+function t6.Device.GetPlatform()
+    local UserInputService = t6.Services.UserInputService
+
+    if UserInputService.TouchEnabled then
+        return "Mobile"
+    end
+
+    if UserInputService.GamepadEnabled and not UserInputService.KeyboardEnabled then
+        return "Console"
+    end
+
+    return "PC"
+end
+function t6.Device.GetExecutorId()
+    local t7 = {
+		a = t6.Env.gethwid,
+		b = t6.Env.get_hwid,
+		c = type(syn) == "table" and syn.get_hwid or nil
+	}
+
+    for _, v in pairs(t7) do
+        if type(v) ~= "function" then
+            continue
+        end
+
+        local ok, result = pcall(v)
+        local v68 = ok and tostring(result or "") or ""
+
+        if #v68 >= 8 and v68 ~= "unknown" and v68 ~= "nil" then
+            return v68
+        end
+    end
+
+    return nil
+end
+function t6.Device.Get()
+    local v69 = t6.Device.GetExecutorId()
+
+    if v69 then
+        return v69
+    end
+
+    local v70 = t6.File.Read(t6.Config.DeviceFile)
+
+    if v70 then
+        local ok, result = pcall(t6.Services.HttpService.JSONDecode, t6.Services.HttpService, v70)
+        local v73 = ok and (type(result) == "table" and result.device_id) or nil
+
+        if type(v73) == "string" and #v73 >= 8 then
+            return v73
+        end
+    end
+
+    local guid = t6.Services.HttpService:GenerateGUID(false)
+    local ok, result = pcall(t6.Services.HttpService.JSONEncode, t6.Services.HttpService, {
+		device_id = guid
+	})
+
+    if ok then
+        t6.File.Write(t6.Config.DeviceFile, result)
+    end
+
+    return guid
+end
+function t6.Net.RequestFunction()
+    return type(syn) == "table" and syn.request or (type(http) == "table" and http.request or (http_request or (request or (type(fluxus) == "table" and fluxus.request or type(krnl) == "table" and krnl.request))))
+end
+function t6.Net.Post(p7, p8, p9)
+    if type(p7) ~= "string" or p7 == "" then
+        return false, 0, "", "Invalid URL"
+    end
+
+    local t8 = {
+		["Content-Type"] = "application/json"
+	}
+
+    if type(p9) == "string" and p9 ~= "" then
+        t8.Authorization = "Bearer " .. p9
+    end
+
+    local s1 = ""
+
+    if type(p8) == "table" then
+        local ok, result = pcall(t6.Services.HttpService.JSONEncode, t6.Services.HttpService, p8)
+
+        if not ok then
+            return false, 0, "", "Failed to encode request"
+        end
+
+        s1 = result
+    end
+
+    local v84 = t6.Net.RequestFunction()
+    local ok, result = pcall(function()
+        if type(v84) == "function" then
+            return v84({
+				Url = p7,
+				Method = "POST",
+				Headers = t8,
+				Body = s1
+			})
+        end
+
+        return t6.Services.HttpService:RequestAsync({
+			Url = p7,
+			Method = "POST",
+			Headers = t8,
+			Body = s1
+		})
+    end)
+
+    if not ok or type(result) ~= "table" then
+        return false, 0, "", (tostring(result or "Request failed"))
+    end
+
+    local v87 = tonumber(result.StatusCode or (result.Status or result.status_code)) or 0
+    local v88 = result.Body or (result.body or "")
+    local v89 = type(v88) == "string" and v88 or tostring(v88 or "")
+
+    if v87 == 0 and v89 ~= "" then
+        v87 = 200
+    end
+
+    return true, v87, v89, nil
+end
+function t6.Net.Decode(p10)
+    if type(p10) ~= "string" or p10 == "" then
+        return nil
+    end
+
+    local ok, result = pcall(t6.Services.HttpService.JSONDecode, t6.Services.HttpService, p10)
+
+    return ok and (type(result) == "table" and result) or nil
+end
+function t6.Net.IsTemporary(p11)
+    local v94 = tonumber(p11) or 0
+
+    return v94 == 0 or (v94 == 408 or (v94 == 425 or (v94 == 429 or v94 >= 500)))
+end
+function t6.Auth.CleanKey(p12)
+    returntostring(p12 or ""):gsub("%s+", "")
+end
+function t6.Auth.Payload(p13, p14, p15)
+    local LocalPlayer = t6.Services.LocalPlayer
+
+    return {
+		type = tostring(p15 or "auto"),
+		xkey = t6.Auth.CleanKey(p14),
+		userid = LocalPlayer and LocalPlayer.UserId or 0,
+		uname = LocalPlayer and LocalPlayer.Name or "",
+		d_id = t6.State.DeviceId,
+		platform = t6.State.Platform,
+		game_id = game.GameId,
+		action = tostring(p13 or "login"),
+		place_id = game.PlaceId
+	}
+end
+function t6.Auth.Apply(p16, p17)
+    local v102 = type(p16.ui) == "table" and p16.ui or nil
+    local v103 = p16.ui_version or v102 and v102.version
+    local v104 = p16.ui_url or v102 and v102.url
+
+    if type(v103) == "string" and v103 ~= "" then
+        t6.State.UiVersion = v103
+    end
+
+    if type(v104) == "string" and v104 ~= "" then
+        t6.State.UiUrl = v104
+    end
+
+    t6.State.ExpiresAt = p16.key_expires_at or (p16.expires_at or t6.State.ExpiresAt)
+    t6.State.Premium = p16.pro == true or p16.premium == true
+
+    if p17 == "login" then
+        local v105 = p16.script_token or p16.session_token
+
+        t6.State.ScriptToken = type(v105) == "string" and (v105 ~= "" and v105) or nil
+    end
+end
+function t6.Auth.ResponseType(p18, p19)
+    if type(p18) == "table" then
+        if p18.pro == true or p18.premium == true then
+            return "pro"
+        end
+
+        local v108 = p18.key_type or (p18.type or p18.method)
+
+        if type(v108) == "string" and v108 ~= "" then
+            return v108
+        end
+    end
+
+    local str = tostring(p19 or "auto")
+
+    return str ~= "" and (str ~= "auto" and str) or "lootlabs"
+end
+function t6.Auth.CheckOnce(p20, p21, p22)
+    local v113, v114, v115, v116 = t6.Net.Post(t6.Config.AuthUrl, t6.Auth.Payload(p20, p21, p22))
+
+    if not v113 then
+        return false, v116 or "Request failed", true, nil
+    end
+
+    local v117 = t6.Net.Decode(v115)
+
+    if type(v117) ~= "table" then
+        return false, "Invalid server response", t6.Net.IsTemporary(v114), nil
+    end
+
+    t6.Auth.Apply(v117, p20)
+
+    if t6.Net.IsTemporary(v114) then
+        return false, v117.msg or (v117.message or "Server unavailable"), true, nil
+    end
+
+    if v117.success == true then
+        if p20 == "login" and not t6.State.ScriptToken then
+            return false, "Missing script token", true, nil
+        end
+
+        t6.State.Authenticated = true
+
+        return true, nil, false, v117
+    end
+
+    return false, tostring(v117.msg or (v117.message or (v117.code or "Authentication failed"))), false, v117
+end
+function t6.Auth.Check(p23, p24, p25)
+    local s2 = "Request failed"
+
+    for i = 1, t6.Config.AuthRetries do
+        local v123, v124, v125, v126 = t6.Auth.CheckOnce(p23, p24, p25)
+
+        if v123 then
+            return true, nil, v126
+        end
+
+        s2 = v124 or s2
+
+        if not v125 then
+            return false, s2, v126
+        end
+
+        if i < t6.Config.AuthRetries then
+            task.wait(t6.Config.RetryDelay * i)
+        end
+    end
+
+    return false, s2, nil
+end
+function t6.Auth.Login(p26, p27, p28)
+    local v130 = t6.Auth.CleanKey(p26)
+    local str = tostring(p27 or "auto")
+    local v132, v133, v134 = t6.Auth.Check("login", v130, str)
+
+    if not v132 then
+        t6.State.Authenticated = false
+
+        return false, v133, v134
+    end
+
+    t6.State.Key = v130
+    t6.State.KeyType = t6.Auth.ResponseType(v134, str)
+
+    if p28 then
+        t6.File.SaveAuth(t6.State.KeyType, t6.State.Key)
+    end
+
+    return true, nil, v134
+end
+function t6.Auth.StartHeartbeat()
+    if t6.State.HeartbeatRunning or not t6.State.Authenticated then
+        return
+    end
+
+    t6.State.HeartbeatRunning = true
+    task.spawn(function()
+        while t6.State.HeartbeatRunning and t6.State.Authenticated do
+            task.wait(t6.Config.Heartbeat)
+
+            if not t6.State.HeartbeatRunning or not t6.State.Authenticated then
+                return
+            end
+
+            local Premium = t6.State.Premium
+            local v212, v213, v214 = t6.Auth.Check("heartbeat", t6.State.Key, t6.State.KeyType)
+
+            if not v212 then
+                if type(v214) ~= "table" then
+                    continue
+                end
+
+                t6.Security.Revoke(v213 or "Access revoked")
+
+                return
+            end
+
+            t6.UI.UpdateExpiryLabel()
+
+            if Premium and not t6.State.Premium then
+                t6.Security.RunResets("Premium access ended")
+            end
+        end
+    end)
+end
+function t6.UI.Notify(p29, p30)
+    local str = tostring(p29 or "")
+
+    if str == "" then
+        return
+    end
+
+    if t6.State.Library and type(t6.State.Library.Notify) == "function" then
+        pcall(function()
+            t6.State.Library:Notify(str, tonumber(p30) or 3)
+        end)
+
+        return
+    end
+
+    pcall(function()
+        t6.Services.StarterGui:SetCore("SendNotification", {
+			Title = "Exotic Hub",
+			Text = str,
+			Duration = tonumber(p30) or 3
+		})
+    end)
+end
+function t6.UI.Copy(p31)
+    if type(setclipboard) == "function" then
+        setclipboard((tostring(p31 or "")))
+        t6.UI.Notify("Link copied to clipboard", 3)
+
+        return true
+    end
+
+    if type(syn) == "table" and type(syn.set_clipboard) == "function" then
+        syn.set_clipboard((tostring(p31 or "")))
+        t6.UI.Notify("Link copied to clipboard", 3)
+
+        return true
+    end
+
+    t6.UI.Notify("Clipboard is not supported", 3)
+
+    return false
+end
+function t6.UI.RunSource(p32)
+    if type(p32) ~= "string" or (#p32 < 100 or type(loadstring) ~= "function") then
+        warn("[EXO UI] Invalid source or loadstring unavailable")
+
+        return nil
+    end
+
+    local v140, v141 = loadstring(p32)
+
+    if type(v140) ~= "function" then
+        warn("[EXO UI] Compile failed: " .. tostring(v141))
+
+        return nil
+    end
+
+    local ok, result = pcall(v140)
+
+    if not ok then
+        warn("[EXO UI] Startup failed: " .. tostring(result))
+
+        return nil
+    end
+
+    return result
+end
+function t6.UI.Load()
+    if t6.State.Headless then
+        return true
+    end
+
+    local str = tostring(t6.State.UiVersion or "")
+    local v145 = t6.State.UiUrl ~= "" and t6.State.UiUrl or t6.Config.UiUrl
+
+    if str == "" then
+        return false, "Server did not return UI version"
+    end
+
+    t6.File.EnsureFolders()
+
+    if str == t6.File.Read(t6.Config.UiVersionFile) then
+        local v146 = t6.UI.RunSource(t6.File.Read(t6.Config.UiFile))
+
+        if v146 then
+            t6.State.Library = v146
+            t6.Public.Library = v146
+
+            return true
+        end
+    end
+
+    local s3 = "?"
+
+    if v145:find("?", 1, true) then
+        s3 = "&"
+    end
+
+    local v148 = v145 .. s3 .. "version=" .. str
+    local ok, result = pcall(function()
+        return game:HttpGet(v148, true)
+    end)
+
+    if not ok then
+        warn("[EXO UI] Download failed: " .. tostring(result))
+    end
+
+    local v151 = ok and t6.UI.RunSource(result) or nil
+
+    if not v151 then
+        return false, "Failed to load UI"
+    end
+
+    t6.File.Write(t6.Config.UiFile, result)
+    t6.File.Write(t6.Config.UiVersionFile, str)
+    t6.State.Library = v151
+    t6.Public.Library = v151
+
+    return true
+end
+function t6.UI.CreateWindow()
+    if t6.State.Headless or t6.State.Window then
+        return true
+    end
+
+    local Library = t6.State.Library
+
+    if not Library or type(Library.CreateWindow) ~= "function" then
+        return false
+    end
+
+    local ok, result = pcall(function()
+        return Library:CreateWindow({
+			Title = not t6.State.Premium and "Exotic Hub" or "<font color='#FFFFFF'>Exotic Hub</font> <font color='#FF00C8'>PRO</font>",
+			Footer = "exotichub.app/join",
+			ToggleKeybind = Enum.KeyCode.RightControl,
+			Center = true,
+			ShowCustomCursor = false,
+			AutoShow = t6.State.AutoShow
+		})
+    end)
+
+    if not ok or not result then
+        return false
+    end
+
+    t6.State.Window = result
+    t6.Public.Window = result
+
+    return true
+end
+function t6.UI.ExpiryText()
+    local num = tonumber(t6.State.ExpiresAt)
+
+    if not num then
+        return "Key expiry is not available"
+    end
+
+    if num > 100000000000 then
+        num = math.floor(num / 1000)
+    end
+
+    local v156 = math.floor(num - os.time())
+
+    if v156 <= 0 then
+        return "Key expired"
+    end
+
+    local v157 = math.floor(v156 / 86400)
+    local v158 = math.floor(v156 % 86400 / 3600)
+    local v159 = math.floor(v156 % 3600 / 60)
+    local t9 = {}
+
+    if v157 > 0 then
+        table.insert(t9, v157 .. (v157 ~= 1 and " days" or " day"))
+    end
+
+    if v158 > 0 then
+        table.insert(t9, v158 .. (v158 ~= 1 and " hours" or " hour"))
+    end
+
+    if v159 > 0 then
+        table.insert(t9, v159 .. " min")
+    end
+
+    if #t9 == 0 then
+        table.insert(t9, v156 .. " sec")
+    end
+
+    return "Key expires in " .. table.concat(t9, " ")
+end
+function t6.UI.UpdateExpiryLabel()
+    local AccountExpiryLabel = t6.State.AccountExpiryLabel
+
+    if AccountExpiryLabel and type(AccountExpiryLabel.SetText) == "function" then
+        AccountExpiryLabel:SetText(t6.UI.ExpiryText())
+    end
+end
+function t6.UI.AddAccount()
+    if t6.State.Headless or (t6.State.AccountAdded or not t6.State.Window) then
+        return
+    end
+
+    local LoginTab = t6.State.LoginTab
+
+    if LoginTab then
+        if LoginTab.TabLabel then
+            LoginTab.TabLabel.Text = "Account"
+        end
+
+        if t6.State.LoginGroup and t6.State.LoginGroup.BoxHolder then
+            t6.State.LoginGroup.BoxHolder.Visible = false
+        end
+    else
+        LoginTab = t6.State.Window:AddTab({
+			Name = "Account",
+			Description = "Exotic Hub account",
+			Icon = "circle-user-round"
+		})
+    end
+
+    if not LoginTab then
+        return
+    end
+
+    local v163 = LoginTab:AddLeftGroupbox("Account", "circle-user-round", false)
+    local v164 = LoginTab:AddRightGroupbox("Logout", "circle-user-round")
+
+    if v164 then
+        v164:AddButton({
+			Text = "<font color='#FF5555'>Logout</font>",
+			Func = function()
+            local Library = t6.State.Library
+
+            if not Library or type(Library.Confirm) ~= "function" then
+                return
+            end
+
+            Library:Confirm({
+					Title = "Logout?",
+					Description = "This will clear your saved key and remove you from the game.",
+					Risky = true,
+					Callback = function(p33)
+                if p33 then
+                    t6.Security.Logout()
+                end
+            end
+				})
+        end
+		})
+    end
+
+    if v163 then
+        t6.State.AccountExpiryLabel = v163:AddLabel({
+			Text = t6.UI.ExpiryText(),
+			DoesWrap = true
+		})
+        v163:AddButton({
+			Text = "Join Discord",
+			Func = function()
+            t6.UI.Copy(t6.Config.DiscordUrl)
+        end
+		})
+    end
+
+    t6.State.AccountAdded = true
+end
+function t6.UI.SetStatus(p34)
+    if t6.State.LoginStatus and type(t6.State.LoginStatus.SetText) == "function" then
+        t6.State.LoginStatus:SetText((tostring(p34 or "")))
+    end
+end
+function t6.UI.ShowLogin(p35)
+    if t6.State.Headless or not t6.State.Window then
+        return false
+    end
+
+    local v167 = t6.State.Window:AddTab({
+		Name = "Key System",
+		Description = "Enter your Exotic Hub key",
+		Icon = "key-round"
+	})
+    local v168 = v167 and v167:AddLeftGroupbox("Key Entry", "key-round", false) or nil
+
+    if not v168 then
+        return false
+    end
+
+    t6.State.LoginTab = v167
+    t6.State.LoginGroup = v168
+    v168:AddInput("exo_loader_key_input", {
+		Text = "Access Key",
+		Default = t6.State.Key,
+		Numeric = false,
+		AllowEmpty = true,
+		Finished = false,
+		ClearTextOnFocus = false,
+		Tooltip = "Enter your Exotic Hub key.",
+		Placeholder = "Enter key"
+	})
+    t6.State.LoginStatus = v168:AddLabel({
+		Text = tostring(p35 or "Enter your key to continue."),
+		DoesWrap = true
+	})
+    v168:AddButton({
+		Text = "Login",
+		Func = function()
+        if t6.State.LoginBusy then
+            return
+        end
+
+        t6.State.LoginBusy = true
+        t6.UI.SetStatus("Checking key...")
+        task.spawn(function()
+            local v217 = t6.State.Library and t6.State.Library.Options
+            local v218 = v217 and v217.exo_loader_key_input
+            local v219, v220 = t6.Auth.Login(v218 and v218.Value or "", "auto", true)
+
+            if not v219 then
+                t6.UI.SetStatus("❌ " .. tostring(v220 or "Login failed"))
+                t6.State.LoginBusy = false
+
+                return
+            end
+
+            t6.UI.SetStatus("✅ Key accepted. Loading script...")
+
+            local v221, v222 = t6.Script.Load()
+
+            if not v221 then
+                t6.UI.SetStatus("❌ " .. tostring(v222 or "Script failed to load"))
+                t6.State.LoginBusy = false
+
+                return
+            end
+
+            t6.UI.AddAccount()
+            t6.Auth.StartHeartbeat()
+            t6.State.LoginBusy = false
+        end)
+    end
+	})
+    v168:AddButton({
+		Text = "Get Free Key",
+		Func = function()
+        t6.UI.Copy(t6.Config.FreeKeyUrl)
+    end
+	})
+    v168:AddButton({
+		Text = "Join Discord",
+		Func = function()
+        t6.UI.Copy(t6.Config.DiscordUrl)
+    end
+	})
+
+    return true
+end
+function t6.Script.Fetch(p36)
+    if type(p36) ~= "string" or p36 == "" then
+        return false, "Missing script token", true
+    end
+
+    local v170, v171, v172, v173 = t6.Net.Post(t6.Config.ScriptUrl, nil, p36)
+
+    if not v170 then
+        return false, v173 or "Script request failed", true
+    end
+
+    if v171 == 401 or v171 == 403 or v171 == 409 or v171 == 410 then
+        local v174 = t6.Net.Decode(v172)
+
+        return false, v174 and (v174.msg or (v174.message or v174.code)) or "Script token rejected", true
+    end
+
+    if t6.Net.IsTemporary(v171) then
+        return false, "Script server unavailable", true
+    end
+
+    if v171 < 200 or v171 >= 300 then
+        local v175 = t6.Net.Decode(v172)
+
+        return false, v175 and (v175.msg or (v175.message or v175.code)) or "Script request rejected", false
+    end
+
+    local v176 = v172:match("^%s*{") and t6.Net.Decode(v172) or nil
+
+    if v176 and v176.success == false then
+        return false, v176.msg or (v176.message or (v176.code or "Script request failed")), true
+    end
+
+    if type(v172) ~= "string" or #v172 < 50 then
+        return false, "Script response was empty", true
+    end
+
+    local v177, v178 = loadstring(v172)
+
+    if type(v177) ~= "function" then
+        return false, "Script compile failed: " .. tostring(v178), true
+    end
+
+    return true, v177, false
+end
+function t6.Script.FreshToken()
+    return t6.Auth.Login(t6.State.Key, t6.State.KeyType, false)
+end
+function t6.Script.Load()
+    if t6.State.ScriptLoaded then
+        return true
+    end
+
+    local s4 = "Failed to download script"
+
+    for i = 1, t6.Config.ScriptRetries do
+        local ScriptToken = t6.State.ScriptToken
+
+        t6.State.ScriptToken = nil
+
+        if type(ScriptToken) ~= "string" or ScriptToken == "" then
+            local v182, v183 = t6.Script.FreshToken()
+
+            if not v182 then
+                return false, v183 or s4
+            end
+
+            ScriptToken = t6.State.ScriptToken
+            t6.State.ScriptToken = nil
+        end
+
+        local v184, v185, v186 = t6.Script.Fetch(ScriptToken)
+
+        if v184 then
+            if t6.State.Premium then
+                t6.File.Write(t6.Config.LegacyProFile, "true")
+                t6.Env.exoprov = true
+                _G.exoprov = true
+            end
+
+            local ok, result = pcall(v185, t6.Public)
+
+            if not ok then
+                return false, "Script startup failed: " .. tostring(result)
+            end
+
+            t6.State.ScriptLoaded = true
+
+            return true
+        end
+
+        s4 = v185 or s4
+
+        if not v186 then
+            return false, s4
+        end
+
+        if i < t6.Config.ScriptRetries then
+            task.wait(t6.Config.RetryDelay * i)
+
+            local v189, v190 = t6.Script.FreshToken()
+
+            if v189 then
+                continue
+            end
+
+            return false, v190 or s4
+        end
+    end
+
+    return false, s4
+end
+function t6.Security.RunResets(p37)
+    for _, v in ipairs(t6.State.Resets) do
+        pcall(v, (tostring(p37 or "Access ended")))
+    end
+end
+function t6.Security.Revoke(p38)
+    if t6.State.Revoked then
+        return
+    end
+
+    t6.State.Revoked = true
+    t6.State.Authenticated = false
+    t6.State.Premium = false
+    t6.State.HeartbeatRunning = false
+    t6.Security.RunResets(p38)
+    t6.File.ClearAuth()
+    t6.UI.Notify(tostring(p38 or "Access revoked") .. ". Rejoin to continue.", 5)
+    task.delay(2, function()
+        if t6.Services.LocalPlayer then
+            t6.Services.LocalPlayer:Kick((tostring(p38 or "Access revoked")))
+        end
+    end)
+end
+function t6.Security.Logout()
+    t6.State.Authenticated = false
+    t6.State.Premium = false
+    t6.State.HeartbeatRunning = false
+    t6.Security.RunResets("Logged out")
+    t6.File.ClearAuth()
+    t6.File.Delete(t6.Config.LegacyProFile)
+    t6.Env.__EXO_SHARED = nil
+    t6.UI.Notify("Logged out. Rejoin to use Exotic Hub again.", 5)
+    task.delay(2, function()
+        if t6.Services.LocalPlayer then
+            t6.Services.LocalPlayer:Kick("Logged out. Rejoin to continue.")
+        end
+    end)
+end
+function t6.Public.IsPremium()
+    return t6.State.Authenticated and t6.State.Premium
+end
+function t6.Public.IsHeadless()
+    return t6.State.Headless
+end
+function t6.Public.RegisterReset(p39)
+    if type(p39) ~= "function" then
+        return false
+    end
+
+    table.insert(t6.State.Resets, p39)
+
+    return true
+end
+t6.Public.Library = nil
+t6.Public.Window = nil
+function t6.Run()
+    if type(t6.Env.__EXO_SHARED) == "table" then
+        warn("[EXO] Loader is already running")
+
+        return
+    end
+
+    local v196 = tostring(t6.Env.mode or (_G.mode or "")):lower()
+    local v197 = t6.Env.exo_key or _G.exo_key
+
+    t6.State.Headless = v196 == "noui"
+    t6.State.DeviceId = t6.Device.Get()
+    t6.State.Platform = t6.Device.GetPlatform()
+    t6.Env.exo_key = nil
+    t6.Env.mode = nil
+    _G.exo_key = nil
+    _G.mode = nil
+
+    local exo_autoshow = t6.Env.exo_autoshow
+
+    t6.Env.exo_autoshow = nil
+    _G.exo_autoshow = nil
+    t6.State.AutoShow = exo_autoshow ~= false
+
+    local v199, v200 = t6.File.LoadAuth()
+
+    if type(v197) == "string" and t6.Auth.CleanKey(v197) ~= "" then
+        t6.State.Key = t6.Auth.CleanKey(v197)
+        t6.State.KeyType = "auto"
+        t6.State.FromGlobalKey = true
+    elseif v200 then
+        t6.State.Key = t6.Auth.CleanKey(v200)
+        t6.State.KeyType = tostring(v199 or "auto")
+    end
+
+    local v201, v202, v203 = t6.Auth.Login(t6.State.Key, t6.State.KeyType, not t6.State.FromGlobalKey and t6.State.Key ~= "")
+
+    if t6.State.Headless then
+        if not v201 then
+            local str = tostring(v202 or "Authentication failed")
+
+            warn("[EXO] " .. str)
+
+            if type(v203) == "table" and t6.Services.LocalPlayer then
+                t6.Services.LocalPlayer:Kick("Exotic Hub: " .. str)
+            end
+
+            return
+        end
+
+        t6.Env.__EXO_SHARED = t6.Public
+
+        local v205, v206 = t6.Script.Load()
+
+        if not v205 then
+            warn("[EXO] " .. tostring(v206))
+
+            return
+        end
+
+        t6.Auth.StartHeartbeat()
+
+        return
+    end
+
+    local v207, v208 = t6.UI.Load()
+
+    if not v207 then
+        warn("[EXO] " .. tostring(v208))
+
+        return
+    end
+
+    if not t6.UI.CreateWindow() then
+        warn("[EXO] Failed to create UI window")
+
+        return
+    end
+
+    t6.Env.__EXO_SHARED = t6.Public
+
+    if not v201 then
+        t6.UI.ShowLogin(v202)
+
+        return
+    end
+
+    t6.UI.AddAccount()
+
+    local v209, v210 = t6.Script.Load()
+
+    if not v209 then
+        t6.UI.Notify(tostring(v210), 6)
+        warn("[EXO] " .. tostring(v210))
+
+        return
+    end
+
+    t6.Auth.StartHeartbeat()
+end
+t6.Run()
